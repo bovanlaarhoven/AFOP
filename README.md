@@ -2,6 +2,8 @@
 
 Simple Health And energy cheat for the game "Avatar: Frontiers of pandora"
 
+Cheat Engine Table in release
+
 ### Some Things i found
 Base: "afop.exe"+09FCBF70  
 Health: 838 → 28 → 98 → D8 → 5B8 → 20 → 708 → 68  
